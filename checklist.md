@@ -1,7 +1,6 @@
 ---
-title: "Checklist"
-url: /checklist/
-layout: pages
+layout: home
+author_profile: false
 ---
 
 Boethius's *Consolatio Philosophiae*: A checklist of pre-1700 holdings at the Newberry Library
