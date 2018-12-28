@@ -4,7 +4,7 @@ layout: home
 author_profile: true
 ---
 
-This page is a course site for "Boethius's *Consolation of Philosophy* and its Afterlife", [a 10-week graduate seminar run at the Newberry Library in winter quarter of 2019](https://www.newberry.org/01112019-boethius-s-consolation-philosophy-and-its-afterlife).
+This page is a course site for "Boethius's *Consolation of Philosophy* and its Afterlife", [a 10-week graduate seminar](https://www.newberry.org/01112019-boethius-s-consolation-philosophy-and-its-afterlife) run at the Newberry Library in winter quarter of 2019.
 
 Written early in the sixth century by the Roman philosopher and statesman Boethius, the *Consolation of Philosophy* was among the most influential works of literature in medieval Europe, valued as an authoritative synthesis of ancient philosophy, a compendium of poetry and mythological lore, a first-person narrative of embattled virtue, and a model of dialectical method applied to intractable problems in ethics, metaphysics, and theology.
 
@@ -53,8 +53,7 @@ Cambridge: Harvard University Press, 2012.
 ISBN-13: 978-0674055582. 
 \$35
 
-The following book is recommended to those who want the Latin text. 
-It is also available at the Rosenberg Bookshop. 
+The following book is recommended and likewise available at the Rosenberg Bookshop. 
 
 * O'Donnell, James J. 
 *Boethius' Consolatio Philosophiae*. 
