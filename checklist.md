@@ -1,11 +1,12 @@
 ---
 title: "Checklist"
 url: /checklist/
+layout: pages
 ---
 
-A checklist of pre-1700 Boethius-related holdings at the Newberry Library
+Boethius's *Consolatio Philosophiae*: A checklist of pre-1700 holdings at the Newberry Library
 
-## I. Latin text
+# I. Latin texts of the *Consolatio*
 
 1. **MS 10**. 
 Germany, s.xi.
@@ -68,8 +69,8 @@ Douai, 1632.
 Paris, 1680. 
 With contributions by Pierre Cally.
 
-## II. Translations
-### II.A. Into English
+# II. Translations
+## II.A. Into English
 
 1. **MS f36**. 
 England, *c*. 1480.
@@ -109,7 +110,8 @@ Translation into Italian by Benedetto Varchi.
 Paris, 1640. 
 Translation into French by René de Cerisiers, accompanied by de Cerisiers' *Consolation de la Theologie* (=III.4). 
 
-## III. Related interest
+# III. Related interest
+(This section could be expanded considerably.)
 
 1. **Case B 2465 .48**.
 London, 1595. 
