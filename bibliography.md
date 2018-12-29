@@ -14,4 +14,4 @@ The following items, mostly recent, are omitted by Phillips but worth attention:
 * Oslo's [Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=216) presents a Latin text of the *Consolatio* and a selection of historically important translations.
 * *The Legacy of Boethius in Medieval England: The Consolation and Its Afterlives*, edited by A. Joseph McMullen and Erica Weaver (ACMRS Publications, 2018).
 
-I have created a [zotero bibliography](https://www.zotero.org/) on our course topic, available for browsing [here](https://www.zotero.org/groups/boethius_dcp/items), and contributed a chapter on Boethius's *Consolatio* in the *Oxford History of Classical Reception in English Literature, vol. 1: The Middle Ages* (Oxford University Press, 2016).
+I have contributed a chapter on Boethius's *Consolatio* in the *Oxford History of Classical Reception in English Literature, vol. 1: The Middle Ages* (Oxford University Press, 2016) and created an informal working bibliography on our course topic in [zotero](https://www.zotero.org/), available for browsing [here](https://www.zotero.org/groups/boethius_dcp/items).
