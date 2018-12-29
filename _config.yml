@@ -105,9 +105,10 @@ analytics:
 author:
   name             : "Ian Cornelius"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-    - "Fridays, 1:30-4:30pm"
-    - "Winter quarter 2019"
+  bio              : |
+    Fridays, 1:30-4:30pm
+    
+    Winter quarter 2019
   location         : "Newberry Library"
   email            :
   links:
