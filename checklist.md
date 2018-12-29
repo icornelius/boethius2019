@@ -1,6 +1,6 @@
 ---
 title: checklist
-layout: home
+layout: archive
 author_profile: false
 ---
 
