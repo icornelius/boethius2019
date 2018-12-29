@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Checklist"
-    url: /checklist
+    url: /checklist/
+
   - title: "Bibliography"
     url: /bibliography/
+    
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
