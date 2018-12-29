@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Checklist"
-    url: https://icornelius.github.io/boethius2019/checklist
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /checklist
+  - title: "Bibliography"
+    url: /bibliography/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
