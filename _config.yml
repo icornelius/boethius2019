@@ -106,7 +106,9 @@ author:
   name             : "Ian Cornelius"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #
-  location         : #
+  location         : 
+    - "Newberry Library"
+    - "Winter quarter 2019"
   email            :
   links:
     - label: "Email"
@@ -114,7 +116,7 @@ author:
       url: # mailto:icornelius@luc.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.iancornelius.com"
+      url: # "https://www.iancornelius.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
