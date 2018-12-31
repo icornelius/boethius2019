@@ -118,13 +118,13 @@ Reading:
 -->
 
 ## Febraury 8 (wk5)
-Twelfth-century Platonism and Philosophy's Children: Latin Personification Allegory. 
+Twelfth-century Platonism and Latin personification allegory. 
 Reading: 
 
 * Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
 
 ## February 15 (wk6)
-Into the Vernacular I: Reason and the Lover.
+Vernacular personification allegory I: Reason and the Lover.
 Reading: 
 
 * Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
@@ -132,7 +132,7 @@ Reading:
 
 ## February 22 (wk7)
 Meet in room 380.
-Into the Vernacular II: Will and the Church. 
+Vernacular personification allegory II: Will and the Church. 
 Reading: 
 
 * *Piers Plowman*, Prol.--*passus* 12
