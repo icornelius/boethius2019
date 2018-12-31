@@ -13,7 +13,7 @@ What did readers seek from the *Consolation*, and what gave them trouble in it?
 How did this text enable new ways of thinking and writing, and how did these innovations change the meaning of the *Consolation* itself? 
 As a mixed-genre work read widely over a long period, the *Consolation* and its tradition provide unique insight into the dynamic literary cultures of premodern Europe.
 
-# Books
+# 1. Books
 The following books are required for this course and available for purchase at the Rosenberg Bookshop in the Newberry Library. 
 Other readings will be supplied in electronic copy.
 
@@ -64,56 +64,103 @@ ISBN-13: 978-0929524375.
 \$24.95
 
 
-<!--A research bibliography is available for browsing on zotero:
-<https://www.zotero.org/groups/boethius_dcp/items>
+# 2. Schedule of classes and readings
+We will meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
+I will be out of town on March 8: we must decide whether and how to reschedule that meeting.
+If we decide to reschedule, we may give a meeting each to Thomas More and Justus Lipsius (currently combined on March 1). 
 
-This bibliography also supplies full citations for the secondary
-literature on the syllabus below.
+This schedule will remain in flux through the first week of term. 
+
+## January 11 (wk1)
+Introductions.
+Reading: 
+
+* Boethius, *Consolation* (entire)
+
+We should decide presentation topics this week or next (see section 3 below).
+
+## January 18 (wk2)
+First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/).
+Reading: 
+
+* Shanzer, "Interpreting the *Consolation*" (2009)
+* Donato, "Self-Examination and Consolation" (2013)
+* Pike, "The Predicate 'Timeless'" (2002)
+* Palmer, "The German Boethius translation printed in 1473 in its historical context" (1997)
+* 1m1 in translations of Geoffrey Chaucer (1380s), John Walton (1410), George Colvile (1556), and I.T. (1609)
+
+<!-- 
+	Also under consideration:
+	* Pollock, "Philology in Three Dimensions" (2014)
+	something historical
+	* Selected passages in Middle and Modern English translations
 -->
 
-# Schedule of readings
-The syllabus will follow shortly. 
+## January 25 (wk3)
+Meet in room 380. 
+An early medieval vernacular adaptation.
+Reading: 
+
+* *The Old English Boethius* (entire)
+
+## February 1 (wk4)
+Medieval commentaries. 
+Reading:
+
+* Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011)
+* Lawler, "Medieval Annotation" (1991)
+* Translated excerpts from the commentaries of William of Conches and Nicholas Trevet
+* Minnis and Nauta, "*More Platonico loquitur*" (1993)
 
 <!--
-## Week 1 (January 11)
-Boethius, *Consolation*
-
-## Week 2 (January 18)
-Boethius, *Consolation*, whole.
-(presentations)
-Viewing of collection items
-
-> We will need to decide presentation topics this week or next.
-
-## Week 3 (January 25)
-*The Old English Boethius*
-
-## Week 4 (February 1)
-Commentaries and textual history
-
-L. Nauta, "The Latin commentary tradition, 800--1700" (2009); 
-; A. Minnis and L. Nauta, "*More Platonico loquitur*" (1993).
-
-## Week 5 (Febraury 8)
-Alan of Lille, *The Complaint of Nature* and *Anticlaudianus* (*c*. 1160--70)
-
-## Week 6 (February 15)
-Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*
-(1220s/30s?, 1270s), omitting the speeches of Ami and La Vieille
-
-Christine de Pizan, from "The debate on *The Romance of the Rose*," *The Path of Long Study*
-
-## Week 7 (February 22)
-*Piers Plowman*
-
-## Week 8 (March 1)
-Thomas More, 
-Lipsius, 
-and a second viewing of collection
-
-## Week 9 (March 8)
-**conflict**
-
-## Week 10 (March 15)
-Translations
+	Also under consideration:
+	* Nauta, "The Latin commentary tradition, 800--1700" (2009)
 -->
+
+## Febraury 8 (wk5)
+Twelfth-century Platonism and Philosophy's Children: Latin Personification Allegory. 
+Reading: 
+
+* Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
+
+## February 15 (wk6)
+Into the Vernacular I: Reason and the Lover.
+Reading: 
+
+* Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
+* Christine de Pizan, excerpts from "The debate on *The Romance of the Rose*" and *The Path of Long Study*
+
+## February 22 (wk7)
+Meet in room 380.
+Into the Vernacular II: Will and the Church. 
+Reading: 
+
+* *Piers Plowman*, Prol.--*passus* 12
+
+## March 1 (wk8)
+Meet in room 401. 
+Second collection viewing; renaissance rewrites. 
+Reading: 
+
+* Thomas More, *A Dialogue of Comfort against Tribulation* (selections)
+* Justus Lipsius, *On Constancy*, trans. John Stradling (selections)
+
+## March 8 (wk 9)
+**conflict**: seminar cancelled or rescheduled.
+
+## March 15 (wk 10)
+End-of-term presentations.
+Translating the *Consolation*. 
+Reading: 
+
+* Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
+
+# 3. Assignments
+
+* A presentation, 15--20 minutes, to be written up afterward. 
+Collaborations are welcome; topics should be decided in consultation with me.
+
+* A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
+
+* A research essay, approximately 6,000 words.
+Due date tba in late March. 
