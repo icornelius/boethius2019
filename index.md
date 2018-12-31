@@ -64,12 +64,27 @@ ISBN-13: 978-0929524375.
 \$24.95
 
 
-# 2. Schedule of classes and readings
+# 2. Assignments
+
+* A presentation, 15--20 minutes, to be written up afterward. 
+Collaborations are welcome; topics and dates should be decided in first or second week.
+
+* A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
+
+* A research essay, approximately 6,000 words.
+Due date tba in late March. 
+
+
+# 3. Schedule of classes and readings
 We will meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
 I will be out of town on March 8: we must decide whether and how to reschedule that meeting.
 If we decide to reschedule, we may give a meeting each to Thomas More and Justus Lipsius (currently combined on March 1). 
 
-This schedule will remain in flux through the first week of term. 
+In addition to the meetings listed below, I wish to offer optional supplementary sessions -- probably an hour per week, in person or via Skype -- for students who have some knowledge of Latin and want to read parts of the *Consolation* in the original language. 
+Logistics will be a challenge.
+We can discuss this in our first meeting.
+
+The schedule of readings will remain in flux through the first week of term. 
 
 ## January 11 (wk1)
 Introductions.
@@ -77,7 +92,7 @@ Reading:
 
 * Boethius, *Consolation* (entire)
 
-We should decide presentation topics this week or next (see section 3 below).
+We should decide presentation topics this week or next (see section 2 above).
 
 ## January 18 (wk2)
 First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/).
@@ -107,6 +122,7 @@ Reading:
 Medieval commentaries. 
 Reading:
 
+* Nauta, "The Latin commentary tradition, 800--1700" (2009)
 * Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011)
 * Lawler, "Medieval Annotation" (1991)
 * Translated excerpts from the commentaries of William of Conches and Nicholas Trevet
@@ -114,7 +130,6 @@ Reading:
 
 <!--
 	Also under consideration:
-	* Nauta, "The Latin commentary tradition, 800--1700" (2009)
 -->
 
 ## Febraury 8 (wk5)
@@ -124,7 +139,7 @@ Reading:
 * Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
 
 ## February 15 (wk6)
-Vernacular personification allegory I: Reason and the Lover.
+Vernacular personification allegory I.
 Reading: 
 
 * Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
@@ -132,7 +147,7 @@ Reading:
 
 ## February 22 (wk7)
 Meet in room 380.
-Vernacular personification allegory II: Will and the Church. 
+Vernacular personification allegory II. 
 Reading: 
 
 * *Piers Plowman*, Prol.--*passus* 12
@@ -154,13 +169,3 @@ Translating the *Consolation*.
 Reading: 
 
 * Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
-
-# 3. Assignments
-
-* A presentation, 15--20 minutes, to be written up afterward. 
-Collaborations are welcome; topics should be decided in consultation with me.
-
-* A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
-
-* A research essay, approximately 6,000 words.
-Due date tba in late March. 
