@@ -95,7 +95,7 @@ Reading:
 We should decide presentation topics this week or next (see section 2 above).
 
 ## January 18 (wk2)
-First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/).
+First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).
 Reading: 
 
 * Shanzer, "Interpreting the *Consolation*" (2009)
