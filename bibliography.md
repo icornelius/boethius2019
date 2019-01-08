@@ -5,10 +5,10 @@ author_profile: false
 ---
 
 The entry ["Boethius"](http://www.oxfordbibliographies.com/abstract/document/obo-9780195396584/obo-9780195396584-0222.xml?rskey=t6NAa2&result=30) in Oxford Bibliographies is a good starting point.
-Note that Oxford Bibliographies are paywalled: 
-you will probably need to click through from your library website, rather than following the link above. 
+(Note that Oxford Bibliographies are paywalled. 
+To access this resource you will probably need to click through from your library website.) 
 
-The following items, mostly recent, are omitted by Phillips but worth attention: 
+The following items, mostly recent, are omitted by the Oxford Bibliography but worth attention: 
 
 * James J. O'Donnell's [website](https://faculty.georgetown.edu/jod/) presents a Latin text of the *Consolatio*, O'Donnell's grammatical commentary on it, and other resources. 
 * Oslo's [Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=216) presents a Latin text of the *Consolatio* and a selection of historically important translations.

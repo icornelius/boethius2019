@@ -4,7 +4,7 @@ layout: home
 author_profile: true
 ---
 
-This page is a course site for "Boethius's *Consolation of Philosophy* and its Afterlife", [a 10-week graduate seminar](https://www.newberry.org/01112019-boethius-s-consolation-philosophy-and-its-afterlife) run at the Newberry Library in winter quarter of 2019.
+This is a course site for "Boethius's *Consolation of Philosophy* and its Afterlife", [a 10-week graduate seminar](https://www.newberry.org/01112019-boethius-s-consolation-philosophy-and-its-afterlife) run at the Newberry Library in winter quarter of 2019.
 
 Written early in the sixth century by the Roman philosopher and statesman Boethius, the *Consolation of Philosophy* was among the most influential works of literature in medieval Europe, valued as an authoritative synthesis of ancient philosophy, a compendium of poetry and mythological lore, a first-person narrative of embattled virtue, and a model of dialectical method applied to intractable problems in ethics, metaphysics, and theology.
 
@@ -108,7 +108,6 @@ Reading:
 	Also under consideration:
 	* Pollock, "Philology in Three Dimensions" (2014)
 	something historical
-	* Selected passages in Middle and Modern English translations
 -->
 
 ## January 25 (wk3)
@@ -150,7 +149,7 @@ Meet in room 380.
 Vernacular personification allegory II. 
 Reading: 
 
-* *Piers Plowman*, Prol.--*passus* 12
+* *Piers Plowman*, Prol.--*passus* 11
 
 ## March 1 (wk8)
 Meet in room 401. 
