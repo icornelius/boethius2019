@@ -5,18 +5,19 @@ author_profile: false
 ---
 
 The following is a hyperlinked checklist of pre-1700 materials related to Boethius's *Consolatio Philosophiae* in the collection of the Newberry Library. 
+Asterisks mark items I have requested for our first collection presentation, January 18.
 
 # I. Latin texts of the *Consolatio*
 
-1. [**MS 10**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=864601). 
+1. \*[**MS 10**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=864601). 
 Germany, s.xi.
 Glossed.
 
-2. [**MS f36**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=871030). 
+2. \*[**MS f36**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=871030). 
 England, *c*. 1480.
 With a translation into English by John Walton (=II.A.1).
 
-3. [**oversize Inc. 1966**](https://vufind.carli.illinois.edu/all/vf-nby/Record/8469854). 
+3. \*[**oversize Inc. 1966**](https://vufind.carli.illinois.edu/all/vf-nby/Record/8469854). 
 Nuremberg, 1473.
 With the commentary of Pseudo-Aquinas and an anonymous translation into German (=II.B.1).
 
@@ -24,7 +25,7 @@ With the commentary of Pseudo-Aquinas and an anonymous translation into German (
 Nuremberg, 1486.
 With the commentary of Pseudo-Aquinas.
 
-5. [**Inc. 8584.7**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247593). 
+5. \*[**Inc. 8584.7**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247593). 
 Lyon, 1487/8.
 With the commentary of Pseudo-Aquinas.
 
@@ -41,11 +42,11 @@ With the commentary of Pseudo-Aquinas.
 Venice, 1497/9.
 With the commentary of Pseudo-Aquinas.
 
-9. [**Inc. 8711**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_279133). 
+9. \*[**Inc. 8711**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_279133). 
 Lyon, *c*. 1500.
 With the commentary of Pseudo-Aquinas.
 
-10. [**Case PA6231 .C8 1514**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_709740). 
+10. \*[**Case PA6231 .C8 1514**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_709740). 
 Lyon, 1514.
 With the commentaries of Pseudo-Aquinas and Jodocus Badius Ascensius.
 
@@ -57,7 +58,7 @@ With contributions by Raymundus Palasinus.
 Basil, 1522.
 With analysis of the meters by Niccolò Perotti.
 
-4. [**Case Y 672.B204**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247829/Holdings).
+4. \*[**Case Y 672.B204**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247829/Holdings).
 London, 1556.
 With a translation into English by George Colvile (=II.A.4). 
 
@@ -71,11 +72,11 @@ With contributions by Pierre Cally.
 # II. Translations
 ## II.A. Into English
 
-1. [**MS f36**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=871030). 
+1. \*[**MS f36**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=871030). 
 England, *c*. 1480.
 Translation of John Walton accompanied by the Latin text (=I.2).
 
-2. [**Case 6A 114** and **Case 6A 112**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=290763).
+2. [**Case 6A 114** and \***Case 6A 112**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=290763).
 London, 1532.
 Translation of Geoffrey Chaucer, contained in William Thynne's edition of the collected works of Chaucer.
 
@@ -83,21 +84,21 @@ Translation of Geoffrey Chaucer, contained in William Thynne's edition of the co
 London, 1551.
 Translation of Geoffrey Chaucer, contained in a reprint of William Thynne's edition of the collected works of Chaucer. 
 
-4. [**Case Y 672.B204**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247829/Holdings).
+4. \*[**Case Y 672.B204**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247829/Holdings).
 London, 1556.
 Translation of George Colvile, accompanied by the Latin text (=I.13). 
 
-5. [**Case Y 672 .B206**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247831).
+5. \*[**Case Y 672 .B206**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247831).
 London, 1609. 
 Translation of Michael Walpole. 
 
-6. [**Case Y 672 .B188**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_73716).
+6. \*[**Case Y 672 .B188**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_73716).
 Oxford, 1698.
 The Old English translation edited by Christopher Rawlinson.
 
 ## II.B. Into Continental European Languages
 
-1. [**MS 10**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=864601). 
+1. \*[**MS 10**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=864601). 
 Nuremberg, 1473.
 Anonymous all-prose translation into German, accompanied by the Latin text and the commentary of Pseudo-Aquinas (=I.3).
 
