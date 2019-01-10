@@ -63,6 +63,14 @@ Distributed by Hackett Publishing Co.
 ISBN-13: 978-0929524375.
 \$24.95
 
+Finally, you may want to acquire a second-hand copy of the following (selections will be provided in pdf):
+
+* More, Thomas. 
+*A Dialogue of Comfort against Tribulation*. 
+Edited by Frank Manley. 
+New Haven: Yale University Press, 1977.
+ISBN-13: 978-0-300-02082-3 (hard cover); 978-0-300-02185-1 (soft cover).
+
 
 # 2. Assignments
 
@@ -98,16 +106,24 @@ We should decide presentation topics this week or next (see section 2 above).
 First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).
 Reading: 
 
-* Shanzer, "Interpreting the *Consolation*" (2009)
-* Donato, "Self-Examination and Consolation" (2013)
-* Pike, "The Predicate 'Timeless'" (2002)
-* Palmer, "The German Boethius translation printed in 1473 in its historical context" (1997)
-* 1m1 in translations of Geoffrey Chaucer (1380s), John Walton (1410), George Colvile (1556), and I.T. (1609)
+* Shanzer, "Interpreting the *Consolation*" (2009), 
+chap. 10 in Marenbon, ed., *The Cambridge Companion to Boethius*, 
+available on-line via [CambridgeCore](https://doi.org/10.1017/CCOL9780521872669)
+* Donato, "Self-Examination and Consolation" (2013), 
+available on-line via [Project MUSE](https://muse.jhu.edu/article/509126)
+* Pike, "The Predicate 'Timeless'" (2002), 
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/JAPGNTKX)
+* Palmer, "The German Boethius translation printed in 1473" (1997), 
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/FNTETFP9)
+* 1m1 in translations of 
+[Geoffrey Chaucer](https://icornelius.github.io/boethius2019/files/Colvile_IT_1m1.pdf) (1380s), 
+[John Walton](https://icornelius.github.io/boethius2019/files/chaucer_1m1.pdf) (1410), 
+[George Colvile, and I.T. (1609)](https://icornelius.github.io/boethius2019/files/walton_1m1.pdf) (1556)
 
 <!-- 
-	Also under consideration:
+	Also considered:
 	* Pollock, "Philology in Three Dimensions" (2014)
-	something historical
+	* Magee in Marenbon (2009) for historical placement
 -->
 
 ## January 25 (wk3)
@@ -121,11 +137,17 @@ Reading:
 Medieval commentaries. 
 Reading:
 
-* Nauta, "The Latin commentary tradition, 800--1700" (2009)
-* Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011)
-* Lawler, "Medieval Annotation" (1991)
-* Translated excerpts from the commentaries of William of Conches and Nicholas Trevet
-* Minnis and Nauta, "*More Platonico loquitur*" (1993)
+* Nauta, "The Latin commentary tradition, 800--1700" (2009), 
+chap. 10 in Marenbon, ed., *The Cambridge Companion to Boethius* (2009), 
+available online via [CambridgeCore](https://doi.org/10.1017/CCOL9780521872669)
+* Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011), 
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/QENKX3SP/)
+* Lawler, "Medieval Annotation" (1991),
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/YA63B6UL/)
+* Minnis and Nauta, "*More Platonico loquitur*" (1993),
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/IZ66939Z)
+* Translated excerpts from the commentaries of William of Conches and Nicholas Trevet 
+\[to be supplied]
 
 <!--
 	Also under consideration:
