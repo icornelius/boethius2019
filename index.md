@@ -6,7 +6,7 @@ author_profile: true
 
 This is a course site for "Boethius's *Consolation of Philosophy* and its Afterlife", [a 10-week graduate seminar](https://www.newberry.org/01112019-boethius-s-consolation-philosophy-and-its-afterlife) run at the Newberry Library in winter quarter of 2019.
 
-# Course rationale
+# rationale
 Written early in the sixth century by the Roman philosopher and statesman Boethius, the *Consolation of Philosophy* was among the most influential works of literature in medieval Europe, valued as an authoritative synthesis of ancient philosophy, a compendium of poetry and mythological lore, a first-person narrative of embattled virtue, and a model of dialectical method applied to intractable problems in ethics, metaphysics, and theology.
 
 In this seminar we examine the *Consolation* and its medieval and early modern reception, with a focus on the problems -- and opportunities -- that this text presented to successive generations of readers. 
@@ -14,7 +14,7 @@ What did readers seek from the *Consolation*, and what gave them trouble in it?
 How did this text enable new ways of thinking and writing, and how did these innovations change the meaning of the *Consolation* itself? 
 As a mixed-genre work read widely over a long period, the *Consolation* and its tradition provide unique insight into the dynamic literary cultures of premodern Europe.
 
-# Books
+# books
 The following books are required for this course and available for purchase at the Rosenberg Bookshop in the Newberry Library. 
 Other readings will be supplied in electronic copy.
 
@@ -73,7 +73,7 @@ New Haven: Yale University Press, 1977.
 ISBN-13: 978-0-300-02082-3 (hard cover); 978-0-300-02185-1 (soft cover).
 
 
-# Assignments
+# assignments
 
 * A presentation, 15--20 minutes, to be written up afterward. 
 Collaborations are welcome; topics and dates should be decided in first or second week.
@@ -84,7 +84,7 @@ Collaborations are welcome; topics and dates should be decided in first or secon
 Due date tbd in late March. 
 
 
-# Schedule of classes and readings
+# schedule of classes and readings
 We will meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
 I will be out of town on March 8: we must decide whether and how to reschedule that meeting.
 If we decide to reschedule, we may give a meeting each to Thomas More and Justus Lipsius (currently combined on March 1). 
