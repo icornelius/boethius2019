@@ -6,14 +6,15 @@ author_profile: true
 
 This is a course site for "Boethius's *Consolation of Philosophy* and its Afterlife", [a 10-week graduate seminar](https://www.newberry.org/01112019-boethius-s-consolation-philosophy-and-its-afterlife) run at the Newberry Library in winter quarter of 2019.
 
+# Course rationale
 Written early in the sixth century by the Roman philosopher and statesman Boethius, the *Consolation of Philosophy* was among the most influential works of literature in medieval Europe, valued as an authoritative synthesis of ancient philosophy, a compendium of poetry and mythological lore, a first-person narrative of embattled virtue, and a model of dialectical method applied to intractable problems in ethics, metaphysics, and theology.
 
-In this seminar, we examine the *Consolation* and its medieval and early modern reception, with a focus on the problems -- and opportunities -- that this text presented to successive generations of readers. 
+In this seminar we examine the *Consolation* and its medieval and early modern reception, with a focus on the problems -- and opportunities -- that this text presented to successive generations of readers. 
 What did readers seek from the *Consolation*, and what gave them trouble in it? 
 How did this text enable new ways of thinking and writing, and how did these innovations change the meaning of the *Consolation* itself? 
 As a mixed-genre work read widely over a long period, the *Consolation* and its tradition provide unique insight into the dynamic literary cultures of premodern Europe.
 
-# 1. Books
+# Books
 The following books are required for this course and available for purchase at the Rosenberg Bookshop in the Newberry Library. 
 Other readings will be supplied in electronic copy.
 
@@ -72,7 +73,7 @@ New Haven: Yale University Press, 1977.
 ISBN-13: 978-0-300-02082-3 (hard cover); 978-0-300-02185-1 (soft cover).
 
 
-# 2. Assignments
+# Assignments
 
 * A presentation, 15--20 minutes, to be written up afterward. 
 Collaborations are welcome; topics and dates should be decided in first or second week.
@@ -80,10 +81,10 @@ Collaborations are welcome; topics and dates should be decided in first or secon
 * A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
 
 * A research essay, approximately 6,000 words.
-Due date tba in late March. 
+Due date tbd in late March. 
 
 
-# 3. Schedule of classes and readings
+# Schedule of classes and readings
 We will meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
 I will be out of town on March 8: we must decide whether and how to reschedule that meeting.
 If we decide to reschedule, we may give a meeting each to Thomas More and Justus Lipsius (currently combined on March 1). 
@@ -95,7 +96,7 @@ We can discuss this in our first meeting.
 The schedule of readings will remain in flux through the first week of term. 
 
 ## January 11 (wk1)
-Introductions.
+Introductions.\
 Reading: 
 
 * Boethius, *Consolation* (entire)
@@ -103,7 +104,7 @@ Reading:
 We should decide presentation topics this week or next (see section 2 above).
 
 ## January 18 (wk2)
-First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).
+First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).\
 Reading: 
 
 * Shanzer, "Interpreting the *Consolation*" (2009), 
@@ -128,13 +129,13 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 
 ## January 25 (wk3)
 Meet in room 380. 
-An early medieval vernacular adaptation.
+An early medieval vernacular adaptation.\
 Reading: 
 
 * *The Old English Boethius* (entire)
 
 ## February 1 (wk4)
-Medieval commentaries. 
+Medieval commentaries.\
 Reading:
 
 * Nauta, "The Latin commentary tradition, 800--1700" (2009), 
@@ -154,13 +155,13 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 -->
 
 ## Febraury 8 (wk5)
-Twelfth-century Platonism and Latin personification allegory. 
+Twelfth-century Platonism and Latin personification allegory.\
 Reading: 
 
 * Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
 
 ## February 15 (wk6)
-Vernacular personification allegory I.
+Vernacular personification allegory I.\
 Reading: 
 
 * Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
@@ -168,14 +169,15 @@ Reading:
 
 ## February 22 (wk7)
 Meet in room 380.
-Vernacular personification allegory II. 
+Vernacular personification allegory II.\
 Reading: 
 
 * *Piers Plowman*, Prol.--*passus* 11
 
 ## March 1 (wk8)
 Meet in room 401. 
-Second collection viewing; renaissance rewrites. 
+Second collection viewing. 
+Renaissance philosophical dialogue.\
 Reading: 
 
 * Thomas More, *A Dialogue of Comfort against Tribulation* (selections)
@@ -186,7 +188,7 @@ Reading:
 
 ## March 15 (wk 10)
 End-of-term presentations.
-Translating the *Consolation*. 
+Translating the *Consolation*.\
 Reading: 
 
 * Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
