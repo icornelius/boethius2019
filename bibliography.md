@@ -10,7 +10,7 @@ To access this resource you will probably need to click through from your librar
 
 The following items, mostly recent, are omitted by the Oxford Bibliography but worth attention: 
 
-* James J. O'Donnell's [website](https://faculty.georgetown.edu/jod/) presents a Latin text of the *Consolatio*, O'Donnell's grammatical commentary on it, and other resources. 
+* James J. O'Donnell's [website](https://faculty.georgetown.edu/jod/) presents a Latin text of the *Consolatio*, O'Donnell's grammatical commentary on it, a brief bibliography, and other resources. 
 * Oslo's [Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=216) presents a Latin text of the *Consolatio* and a selection of historically important translations.
 * *The Legacy of Boethius in Medieval England: The Consolation and Its Afterlives*, edited by A. Joseph McMullen and Erica Weaver (ACMRS Publications, 2018).
 
