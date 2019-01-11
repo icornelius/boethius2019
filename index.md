@@ -96,7 +96,7 @@ We can discuss this in our first meeting.
 The schedule of readings will remain in flux through the first week of term. 
 
 ## January 11 (wk1)
-Introductions.\
+Introductions.  
 Reading: 
 
 * Boethius, *Consolation* (entire)
@@ -104,7 +104,7 @@ Reading:
 We should decide presentation topics this week or next (see section 2 above).
 
 ## January 18 (wk2)
-First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).\
+First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).  
 Reading: 
 
 * Shanzer, "Interpreting the *Consolation*" (2009), 
@@ -129,13 +129,13 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 
 ## January 25 (wk3)
 Meet in room 380. 
-An early medieval vernacular adaptation.\
+An early medieval vernacular adaptation.  
 Reading: 
 
 * *The Old English Boethius* (entire)
 
 ## February 1 (wk4)
-Medieval commentaries.\
+Medieval commentaries.  
 Reading:
 
 * Nauta, "The Latin commentary tradition, 800--1700" (2009), 
@@ -155,13 +155,13 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 -->
 
 ## Febraury 8 (wk5)
-Twelfth-century Platonism and Latin personification allegory.\
+Twelfth-century Platonism and Latin personification allegory.  
 Reading: 
 
 * Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
 
 ## February 15 (wk6)
-Vernacular personification allegory I.\
+Vernacular personification allegory I.  
 Reading: 
 
 * Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
@@ -169,7 +169,7 @@ Reading:
 
 ## February 22 (wk7)
 Meet in room 380.
-Vernacular personification allegory II.\
+Vernacular personification allegory II.  
 Reading: 
 
 * *Piers Plowman*, Prol.--*passus* 11
@@ -177,7 +177,7 @@ Reading:
 ## March 1 (wk8)
 Meet in room 401. 
 Second collection viewing. 
-Renaissance philosophical dialogue.\
+Renaissance philosophical dialogue.  
 Reading: 
 
 * Thomas More, *A Dialogue of Comfort against Tribulation* (selections)
@@ -188,7 +188,7 @@ Reading:
 
 ## March 15 (wk 10)
 End-of-term presentations.
-Translating the *Consolation*.\
+Translating the *Consolation*.  
 Reading: 
 
 * Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
