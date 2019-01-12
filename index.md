@@ -119,7 +119,7 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 * 1m1 in translations of 
 [Geoffrey Chaucer](https://icornelius.github.io/boethius2019/files/chaucer_1m1.pdf) (1380s), 
 [John Walton](https://icornelius.github.io/boethius2019/files/walton_1m1.pdf) (1410), 
-[George Colvile, and I.T. (1609)](https://icornelius.github.io/boethius2019/files/Colvile_IT_1m1.pdf) (1556)
+[George Colvile (1556), and I.T. (1609)](https://icornelius.github.io/boethius2019/files/Colvile_IT_1m1.pdf)
 
 <!-- 
 	Also considered:
