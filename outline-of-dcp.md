@@ -11,10 +11,10 @@ mainfont: Junicode
 
 -->
 
-This outline draws from J. J. O'Donnell's commentary (1990) and John Marenbon's *Boethius* (2003), with some debatable alterations.
+This outline of the *Consolatio* draws from J. J. O'Donnell's commentary (1990) and John Marenbon's *Boethius* (2003), with some debatable alterations.
 
-> B. = Boethius the prisoner  
-> P. = Philosophia
+  B. = Boethius the prisoner  
+  P. = Philosophia
 
 # Setting the scene; Philosophia's diagnosis (bk. 1)
 
@@ -104,9 +104,9 @@ To find true goodness, one needs accurate knowledge.
 3.p9: True happiness is indivisible. 
 Turn from negative to positive inquiry.
 
-**3.m9: A prayer to the creator**.
+3.m9: A prayer to the creator.
 Verse synopsis of the cosmology of Plato's *Timaeus*.
-This is the centerpiece of the entire work. 
+This is **the centerpiece of the entire work**. 
 
 ### The unity of the Good (3.p10--p12)
 3.p10: Argument that true happiness = true goodness = God. Every good man is God.  
