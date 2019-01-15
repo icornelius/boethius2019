@@ -14,75 +14,7 @@ What did readers seek from the *Consolation*, and what gave them trouble in it?
 How did this text enable new ways of thinking and writing, and how did these innovations change the meaning of the *Consolation* itself? 
 As a mixed-genre work read widely over a long period, the *Consolation* and its tradition provide unique insight into the dynamic literary cultures of premodern Europe.
 
-# books
-The following books are required for this course and available for purchase at the Rosenberg Bookshop in the Newberry Library. 
-Other readings will be supplied in electronic copy.
-
-* Alan of Lille. 
-*Literary Works*. 
-Edited and translated by Winthrop Wetherbee. 
-Dumbarton Oaks Medieval Library 22. 
-Cambridge: Harvard University Press, 2013.
-ISBN-13: 978-0674059962. 
-\$35
-
-* Boethius. 
-*The Consolation of Philosophy*. 
-Translated by Joel C. Relihan. 
-Indianapolis, IN: Hackett, 2001.
-ISBN-13: 978-0872205833.
-\$17
-
-* Guillaume de Lorris and Jean de Meun. 
-*The Romance of the Rose*. 
-Translated by Frances Horgan. 
-Oxford: Oxford University Press, 2008.
-ISBN-13: 978-0199540679. 
-\$16.95
-
-* Langland, William.
-*Piers Plowman: The Donaldson Translation, Middle English Text, Sources and Backgrounds*.
-Edited by Elizabeth Ann Robertson and Stephen H. A. Shepherd. 
-New York: W.W. Norton, 2006. 
-ISBN-13: 978-0-393-97559-8.
-\$19
-
-* *The Old English Boethius: With Verse Prologues and Epilogues Associated with King Alfred*.
-Edited and translated by Susan Irvine and Malcolm Godden. 
-Dumbarton Oaks Medieval Library 19.
-Cambridge: Harvard University Press, 2012.
-ISBN-13: 978-0674055582. 
-\$35
-
-The following book is recommended and likewise available at the Rosenberg Bookshop. 
-
-* O'Donnell, James J. 
-*Boethius' Consolatio Philosophiae*. 
-Bryn Mawr Latin Commentaries, Vols. 1--2. 
-Bryn Mawr, PA: Bryn Mawr College, 1990.
-Distributed by Hackett Publishing Co.
-ISBN-13: 978-0929524375.
-\$24.95
-
-Finally, you may want to acquire a second-hand copy of the following (selections will be provided in pdf):
-
-* More, Thomas. 
-*A Dialogue of Comfort against Tribulation*. 
-Edited by Frank Manley. 
-New Haven: Yale University Press, 1977.
-ISBN-13: 978-0-300-02082-3 (hard cover); 978-0-300-02185-1 (soft cover).
-
-
-# assignments
-
-* A presentation, 15--20 minutes, to be written up afterward. 
-Collaborations are welcome; topics and dates should be decided in first or second week.
-
-* A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
-
-* A research essay, approximately 6,000 words.
-Due date tbd in late March. 
-
+(Scroll down for books and assignments.)
 
 # schedule of classes and readings
 We will meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
@@ -101,7 +33,7 @@ Reading:
 
 * Boethius, *Consolation* (entire)
 
-We should decide presentation topics this week or next (see section 2 above).
+We should decide presentation topics this week or next.
 
 ## January 18 (wk2)
 First collection viewing (see the [Checklist of Newberry holdings](https://icornelius.github.io/boethius2019/checklist/)).  
@@ -192,3 +124,74 @@ Translating the *Consolation*.
 Reading: 
 
 * Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
+
+
+# books
+The following books are required for this course and available for purchase at the Rosenberg Bookshop in the Newberry Library. 
+Other readings will be supplied in electronic copy.
+
+* Alan of Lille. 
+*Literary Works*. 
+Edited and translated by Winthrop Wetherbee. 
+Dumbarton Oaks Medieval Library 22. 
+Cambridge: Harvard University Press, 2013.
+ISBN-13: 978-0674059962. 
+\$35
+
+* Boethius. 
+*The Consolation of Philosophy*. 
+Translated by Joel C. Relihan. 
+Indianapolis, IN: Hackett, 2001.
+ISBN-13: 978-0872205833.
+\$17
+
+* Guillaume de Lorris and Jean de Meun. 
+*The Romance of the Rose*. 
+Translated by Frances Horgan. 
+Oxford: Oxford University Press, 2008.
+ISBN-13: 978-0199540679. 
+\$16.95
+
+* Langland, William.
+*Piers Plowman: The Donaldson Translation, Middle English Text, Sources and Backgrounds*.
+Edited by Elizabeth Ann Robertson and Stephen H. A. Shepherd. 
+New York: W.W. Norton, 2006. 
+ISBN-13: 978-0-393-97559-8.
+\$19
+
+* *The Old English Boethius: With Verse Prologues and Epilogues Associated with King Alfred*.
+Edited and translated by Susan Irvine and Malcolm Godden. 
+Dumbarton Oaks Medieval Library 19.
+Cambridge: Harvard University Press, 2012.
+ISBN-13: 978-0674055582. 
+\$35
+
+The following book is recommended and likewise available at the Rosenberg Bookshop. 
+
+* O'Donnell, James J. 
+*Boethius' Consolatio Philosophiae*. 
+Bryn Mawr Latin Commentaries, Vols. 1--2. 
+Bryn Mawr, PA: Bryn Mawr College, 1990.
+Distributed by Hackett Publishing Co.
+ISBN-13: 978-0929524375.
+\$24.95
+
+Finally, you may want to acquire a second-hand copy of the following (selections will be provided in pdf):
+
+* More, Thomas. 
+*A Dialogue of Comfort against Tribulation*. 
+Edited by Frank Manley. 
+New Haven: Yale University Press, 1977.
+ISBN-13: 978-0-300-02082-3 (hard cover); 978-0-300-02185-1 (soft cover).
+
+
+# assignments
+
+* A presentation, 15--20 minutes, to be written up afterward. 
+Collaborations are welcome; topics and dates should be decided in first or second week.
+
+* A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
+
+* A research essay, approximately 6,000 words.
+Due date tbd in late March. 
+
