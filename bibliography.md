@@ -19,5 +19,6 @@ and created an informal working bibliography on our course topic in [zotero](htt
 
 Whereas the "medieval Boethius" has been the subject of some half-dozen essay collections in the past twenty years, study of the "Renaissance Boethius" lags far behind. 
 Begin with the brief essays by [Anthony Grafton](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/J22DBKUF/) 
-and [Lodi Nauta](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/RBIIP93S/).
+and [Lodi Nauta](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/RBIIP93S/), 
+and Brain Donaghey's [conspectus of post-medieval *Consolatio*-translations](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/CNIJMMCG/).
 The best study of Jodocus Badius Ascensius's humanist commentary is [Reinhold Glei, '*Quae philosophia fuit, facta philologia est*'](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/7WF348WS/). 
