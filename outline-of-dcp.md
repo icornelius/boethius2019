@@ -1,5 +1,5 @@
 ---
-title: An outline of DCP
+title: An outline
 layout: archive
 author_profile: false
 ---
@@ -24,13 +24,14 @@ This outline of the *Consolatio* draws from J. J. O'Donnell's commentary (1990) 
 1.m2: P. contrasts B's former energy and vision with his present state.
 
 1.p2: B. is unresponsive; P. makes a preliminary diagnosis, speaking of B. in the third person.  
-1.m3: vision returns, P. speaks of B. in the first person but in retrospect.
+1.m3: B. announces that his vision has returned (or is this P. impersonating B.?).
 
 1.p3: B. recognizes P.; she explains why she has come.  
-1.m4: The truly wise man is serene, above all hopes and fears.
+1.m4: P.: The truly wise man is serene, above all hopes and fears.
 
 1.p4: B.'s *apologia*.  
 1.m5: B. continues his complaint; the Creator governs everything but human affairs.
+(5.m3 is also spoken by B.)
 
 1.p5: P. reacts calmly to B.'s complaint; his illness is worse than she thought.  
 1.m6: Success attends those who adapt their actions to the pattern of nature. 
@@ -154,21 +155,21 @@ Agamemnon's sacrifice of Iphigenia; the labors of Hercules.
 Like 3.m2, this meter has been seen as standing in problematic relation to Philosophia's argument. 
 
 # Providence and prescience: concepts and their implications (bk 5)
-## Divine providence in the realm of nature
+## Prologue: Divine providence in the realm of nature
 5.p1: B. insists that P. explain the nature of chance (*casus*); P. complies, protesting that the question is a dangerous diversion.
 A definition is drawn from Aristotle and illustrated with the case of gold found in a field.  
 5.m1: Apparent chance is subject to the laws of causation. 
 Illustrated by Tigris and Euphrates. 
 (Elegiac couplets, as also 1m1.)
 
+## Divine prescience and human freedom
 5.p2: Acts of will are uniquely free (that is, exempt from causal determination by divine providence), but there are grades of freedom.  
 5.m2: The creator sees and hears all things everywhere: He is the true sun.
 
-## Divine prescience and human freedom
-5.p3: B. sketches the problem of prescience, emphasizing challenges to (1) divine retributive justice and (2) prayer as nexus between humans and divinity.  
-5.m3: B. puts his perplexity into verse (cf. 1m5, **also spoken by B.**). 
-Contradiction and the desire to resolve it. 
-Meno's paradox, resolved by theory of *anamnēsis* (cf. 3m11).
+5.p3: B. sketches the problem of prescience, emphasizing challenges to (1) the legitimacy of divine retributive justice and (2) prayer as nexus between humans and divinity.
+This entire prose is spoken by B. (cf. 4.p5.) 
+B. then puts his perplexity into verse (= 5.m3; cf. 1m5, also spoken by B.): 
+contradiction and the desire to resolve it; Meno's paradox, resolved by the theory of *anamnēsis* (cf. 3m11).
 
 5.p4: P. begins her answer. 
 Analysis of kinds of cognition: *sensus*, *imaginatio*, *ratio*, and *intellegentia*.
