@@ -24,7 +24,7 @@ This outline of the *Consolatio* draws from J. J. O'Donnell's commentary (1990) 
 1.m2: P. contrasts B's former energy and vision with his present state.
 
 1.p2: B. is unresponsive; P. makes a preliminary diagnosis, speaking of B. in the third person.  
-1.m3: B. announces that his vision has returned (or is this P. impersonating B.?).
+1.m3: B. announces that his vision has returned (or is P. speaking for B.?).
 
 1.p3: B. recognizes P.; she explains why she has come.  
 1.m4: P.: The truly wise man is serene, above all hopes and fears.
