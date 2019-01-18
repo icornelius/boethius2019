@@ -17,15 +17,11 @@ As a mixed-genre work read widely over a long period, the *Consolation* and its 
 (Scroll down for books and assignments.)
 
 # schedule of classes and readings
-We will meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
+We meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
 I will be out of town on March 8: we must decide whether and how to reschedule that meeting.
 If we decide to reschedule, we may give a meeting each to Thomas More and Justus Lipsius (currently combined on March 1). 
 
-In addition to the meetings listed below, I wish to offer optional supplementary sessions -- probably an hour per week, in person or via Skype -- for students who have some knowledge of Latin and want to read parts of the *Consolation* in the original language. 
-Logistics will be a challenge.
-We can discuss this in our first meeting.
-
-The schedule of readings will remain in flux through the first week of term. 
+I will offer optional supplementary sessions -- probably an hour per week, in person or via Skype -- for students who have some knowledge of Latin and want to read parts of the *Consolation* in the original language. 
 
 ## January 11 (wk1)
 Introductions.  
@@ -42,8 +38,10 @@ Reading:
 * Shanzer, "Interpreting the *Consolation*" (2009), 
 chap. 10 in Marenbon, ed., *The Cambridge Companion to Boethius*, 
 available on-line via [CambridgeCore](https://doi.org/10.1017/CCOL9780521872669)
+and [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/HYXDWY3H/)
 * Donato, "Self-Examination and Consolation" (2013), 
 available on-line via [Project MUSE](https://muse.jhu.edu/article/509126)
+and [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/FAQCSCPT/)
 * Pike, "The Predicate 'Timeless'" (2002), 
 posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/JAPGNTKX)
 * Palmer, "The German Boethius translation printed in 1473" (1997), 
@@ -62,6 +60,8 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 ## January 25 (wk3)
 Meet in room 380. 
 An early medieval vernacular adaptation.  
+Presentation by Jesse McDowell.  
+
 Reading: 
 
 * *The Old English Boethius* (entire)
@@ -73,27 +73,33 @@ Reading:
 * Nauta, "The Latin commentary tradition, 800--1700" (2009), 
 chap. 10 in Marenbon, ed., *The Cambridge Companion to Boethius* (2009), 
 available online via [CambridgeCore](https://doi.org/10.1017/CCOL9780521872669)
+and [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/PBZDMMGA/)
 * Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011), 
 posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/QENKX3SP/)
 * Lawler, "Medieval Annotation" (1991),
 posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/YA63B6UL/)
-* Minnis and Nauta, "*More Platonico loquitur*" (1993),
-posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/IZ66939Z)
 * Translated excerpts from the commentaries of William of Conches and Nicholas Trevet 
 \[to be supplied]
 
 <!--
 	Also under consideration:
+* Minnis and Nauta, "*More Platonico loquitur*" (1993),
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/IZ66939Z)
 -->
 
 ## Febraury 8 (wk5)
 Twelfth-century Platonism and Latin personification allegory.  
+Presentation by Victor Garcia on Isidore of Seville.  
+Presentation by Reginald Rice on Platonism.  
+
 Reading: 
 
 * Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
 
 ## February 15 (wk6)
 Vernacular personification allegory I.  
+Presentation by Brittany Rebarchik on John Gower's *Confessio Amantis*.  
+
 Reading: 
 
 * Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
