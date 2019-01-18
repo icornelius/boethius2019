@@ -1,10 +1,8 @@
 ---
-title: checklist
+title: some questions to guide your eyes
 layout: archive
 author_profile: false
 ---
-
-# some questions to guide your eyes
 
 how big is the book, compared with others on the table?
 

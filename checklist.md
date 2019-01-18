@@ -7,7 +7,7 @@ author_profile: false
 The following is a hyperlinked checklist of pre-1700 materials related to Boethius's *Consolatio Philosophiae* in the collection of the Newberry Library. 
 Asterisks mark items I have requested for our first collection presentation, January 18.
 
-Here are some [questions to guide your eyes](boethius2019/collection-questions).
+Here are some [questions to guide your eyes](https://icornelius.github.io/boethius2019/collection-questions).
 
 # I. Latin texts of the *Consolatio*
 
