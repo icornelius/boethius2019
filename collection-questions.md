@@ -18,7 +18,7 @@ are the poems lineated or not?
 what signs of use (annotations, etc.) do you find?
 what parts of the *Consolation* received attention from annotators?
 
-if there is an 'incipit', 'explicit' or colophon, what information does it supply?
+if there is an *incipit*, *explicit* or colophon, what information does it supply?
 
 ## for printed books
 
