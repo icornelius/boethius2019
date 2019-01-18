@@ -110,10 +110,20 @@ Translation into Italian by Benedetto Varchi.
 
 3. [**Case miniature C 55 .158**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247892).
 Paris, 1640. 
-Translation into French by René de Cerisiers, accompanied by de Cerisiers' *Consolation de la Theologie* (=III.7). 
+Translation into French by René de Cerisiers, accompanied by de Cerisiers' *Consolation de la Theologie* (=III.9). 
 
 # III. Related interest
 (This section could be expanded considerably.)
+
+1. [**VAULT oversize Case MS 33.5**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=429675)
+England, s. xv.
+John Gower, 
+*Confessio amantis*.
+
+1. [**folio Inc. 9654**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=429691).
+Westminster, 1483.
+John Gower, 
+*Confessio amantis*.
 
 1. [**Case B 235 .151**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_279706).
 Milan, 1543.
