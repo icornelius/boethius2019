@@ -1,6 +1,5 @@
 ---
 title: some questions to guide your eyes
-layout: archive
 author_profile: false
 ---
 
