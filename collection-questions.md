@@ -4,27 +4,28 @@ layout: archive
 author_profile: false
 ---
 
-how big is the book, compared with others on the table?
+How big is the book, compared with others on the table?
 
-what other texts accompany the *Consolatio* in this book?
+What other texts accompany the *Consolatio* in this book?
 
-describe the page layout: line spacing, margins, running titles, page or folio numbers, signatures, etc.
-are the poems lineated or not? 
+Describe the page layout: line spacing, margins, running titles, page or folio numbers, signatures, etc.
+Are the poems lineated or not? 
 
-if there is a commentary, how is it disposed relative to the main text? 
-(same question for translations.) 
+If there is a commentary, how is it disposed relative to the main text? 
+(Same question for translations.) 
 
-describe the letter forms. did the printer (or scribe) employ a single type face (or script) or multiple? 
-if multiple, how are the different type faces (or scripts) disposed?
+Describe the letter forms. 
+Did the printer (or scribe(s)) employ a single type face (or script) or multiple? 
+If multiple, how are the different type faces (or scripts) disposed?
 
-is there color in the book? (rubrication, colored initials, etc.)
-for printed books: are the initials supplied in print, or are spaces left for them to be supplied by hand?
+Is there color in the book? (rubrication, colored initials, etc.)
+For printed books: are the initials supplied in print, or are spaces left for them to be supplied by hand?
 
-what signs of use (annotations, etc.) do you find?
-what parts of the *Consolation* received attention from annotators?
+What signs of use (annotations, etc.) do you find?
+What parts of the *Consolation* received attention from annotators?
 
-if there is an *incipit*, *explicit* or colophon, what information does it supply?
-for printed books: what information is supplied on the title page?
+If there is an *incipit*, *explicit* or colophon, what information does it supply?
+For printed books: what information is supplied on the title page?
 
-compare a sample segment (e.g., 1m1) against the edited texts of that segment. 
-what differences do you observe?
+Compare a sample segment (e.g., 1m1) against a modern edition of that segment. 
+What differences do you observe?
