@@ -68,6 +68,7 @@ Reading:
 
 ## February 1 (wk4)
 Medieval commentaries.  
+Presentation by Josh Parks on Boethius's treatise *De institutione musicae*.  
 Reading:
 
 * Nauta, "The Latin commentary tradition, 800--1700" (2009), 
