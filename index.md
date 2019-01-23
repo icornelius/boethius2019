@@ -58,7 +58,7 @@ posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemK
 -->
 
 ## January 25 (wk3)
-Meet in room 380. 
+Meet in Basement Classroom B-94. 
 An early medieval vernacular adaptation.  
 Presentation by Jesse McDowell.  
 
@@ -71,16 +71,17 @@ Medieval commentaries.
 Presentation by Josh Parks on Boethius's treatise *De institutione musicae*.  
 Reading:
 
-* Nauta, "The Latin commentary tradition, 800--1700" (2009), 
-chap. 10 in Marenbon, ed., *The Cambridge Companion to Boethius* (2009), 
-available online via [CambridgeCore](https://doi.org/10.1017/CCOL9780521872669)
-and [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/PBZDMMGA/)
-* Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011), 
-posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/QENKX3SP/)
 * Lawler, "Medieval Annotation" (1991),
 posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/YA63B6UL/)
-* Translated excerpts from the commentaries of William of Conches and Nicholas Trevet 
-\[to be supplied]
+* Godden and Jayatilaka, "Counting the Heads of the Hydra" (2011), 
+posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/QENKX3SP/)
+* Nauta, "The Latin commentary tradition, 800--1700" (2009), 
+chap. 10 in Marenbon, ed., *The Cambridge Companion to Boethius*, 
+available online via [CambridgeCore](https://doi.org/10.1017/CCOL9780521872669)
+and [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/PBZDMMGA/)
+* [William of Conches on 3m12](files/William-of-Conches-3m12-eng.pdf)
+* Nicholas Trevet on [2m8](files/Trevet-2m8-eng.pdf), 
+and [3m9 and 3m11](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/MZMQDSNS/)
 
 <!--
 	Also under consideration:
@@ -95,7 +96,7 @@ Presentation by Reginald Rice on Platonism.
 
 Reading: 
 
-* Alan of Lille, *The Complaint of Nature* and *Anticlaudianus*
+* Alan of Lille, *The Complaint of Nature*
 
 ## February 15 (wk6)
 Vernacular personification allegory I.  
