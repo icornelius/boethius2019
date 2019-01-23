@@ -105,7 +105,7 @@ Presentation by Brittany Rebarchik on John Gower's *Confessio Amantis*.
 Reading: 
 
 * Guillaume de Lorris and Jean de Meun, *The Romance of the Rose*, omitting the speeches of the Friend and the Old Woman
-* Christine de Pizan, excerpts from "The debate on *The Romance of the Rose*" and *The Path of Long Study*
+* Christine de Pizan, excerpts from "The debate on *The Romance of the Rose*" and *The Path of Long Study*, posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/KJ5BFDMK/)
 
 ## February 22 (wk7)
 Meet in room 380.
