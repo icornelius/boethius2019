@@ -18,8 +18,6 @@ As a mixed-genre work read widely over a long period, the *Consolation* and its 
 
 # schedule of classes and readings
 We meet in the ITW seminar room on the ground floor of the library except as indicated in the schedule below.
-I will be out of town on March 8: we must decide whether and how to reschedule that meeting.
-If we decide to reschedule, we may give a meeting each to Thomas More and Justus Lipsius (currently combined on March 1). 
 
 I will offer optional supplementary sessions -- probably an hour per week, in person or via Skype -- for students who have some knowledge of Latin and want to read parts of the *Consolation* in the original language. 
 
@@ -117,18 +115,23 @@ Reading:
 ## March 1 (wk8)
 Meet in room 401. 
 Second collection viewing. 
-Renaissance philosophical dialogue.  
+Renaissance philosophical dialogue I.  
 Reading: 
 
 * Thomas More, *A Dialogue of Comfort against Tribulation* (selections)
-* Justus Lipsius, *On Constancy*, trans. John Stradling (selections)
 
 ## March 8 (wk 9)
-**conflict**: seminar cancelled or rescheduled.
+**seminar does not meet**.
 
 ## March 15 (wk 10)
-End-of-term presentations.
-Translating the *Consolation*.  
+Renaissance philosophical dialogue II.  
+Reading: 
+
+* Justus Lipsius, *On Constancy*, trans. John Stradling
+
+## March 22 (make-up)
+Standard time; location tbd. 
+End-of-term presentations and early English translations of the *Consolation*.  
 Reading: 
 
 * Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
