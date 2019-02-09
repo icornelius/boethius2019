@@ -116,6 +116,7 @@ Reading:
 Meet in room 401. 
 Second collection viewing. 
 Renaissance philosophical dialogue I.  
+Presentation by Michal Zechariah on Thomas More.  
 Reading: 
 
 * Thomas More, *A Dialogue of Comfort against Tribulation* (selections)
@@ -125,6 +126,7 @@ Reading:
 
 ## March 15 (wk 10)
 Renaissance philosophical dialogue II.  
+Presentation by Peter Rosa on Justus Lipsius.  
 Reading: 
 
 * Justus Lipsius, *On Constancy*, trans. John Stradling
