@@ -119,7 +119,9 @@ Renaissance philosophical dialogue I.
 Presentation by Michal Zechariah on Thomas More.  
 Reading: 
 
-* Thomas More, *A Dialogue of Comfort against Tribulation* (selections)
+* Thomas More, *A Dialogue of Comfort against Tribulation*,
+book 1.prol–1.11 & 20; book 2.prol–2.2 & 8–16 (to p. 135); book 3.prol–12, 18–20 & 27.
+A pdf of these selections is posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/VURNCB2M/).
 
 ## March 8 (wk 9)
 **seminar does not meet**.
@@ -129,7 +131,10 @@ Renaissance philosophical dialogue II.
 Presentation by Peter Rosa on Justus Lipsius.  
 Reading: 
 
-* Justus Lipsius, *On Constancy*, trans. John Stradling
+* Justus Lipsius, *On Constancy*, trans. John Stradling (entire). 
+We read from 
+*Justus Lipsius: On Constancy*, ed. by John Sellars (Exeter, Devon, 2006). 
+ISBN 978-1-904675-15-0.
 
 ## March 22 (make-up)
 Standard time; location tbd. 
