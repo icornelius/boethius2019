@@ -5,7 +5,9 @@ author_profile: false
 ---
 
 The following is a hyperlinked checklist of pre-1700 materials related to Boethius's *Consolatio Philosophiae* in the collection of the Newberry Library. 
-Asterisks mark items I have requested for our first collection presentation, January 18.
+
+Asterisks (`*`) mark items I have requested for our first collection presentation, January 18.
+Items requested for the second collection presentation, 1 March, are marked with a dollar sign (`$`).
 
 Here are some [questions to guide your eyes](https://icornelius.github.io/boethius2019/collection-questions).
 
@@ -35,7 +37,7 @@ With the commentary of Pseudo-Aquinas.
 Deventer, 1491.
 With the commentary of Pseudo-Aquinas.
 
-7. [**folio Inc. 4517**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247524). 
+7. $[**folio Inc. 4517**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247524). 
 Venice, 1491/2.
 The earliest printing of the complete works of Boethius.
 With the commentary of Pseudo-Aquinas.
@@ -52,7 +54,7 @@ With the commentary of Pseudo-Aquinas.
 Lyon, 1514.
 With the commentaries of Pseudo-Aquinas and Jodocus Badius Ascensius.
 
-11. [**Case Y 672 .B066**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247609). 
+11. $[**Case Y 672 .B066**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247609). 
 Lyon, 1515.
 With contributions by Raymundus Palasinus. 
 
@@ -69,7 +71,7 @@ Douai, 1632.
 
 14. [**Y 672 .B068**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_247741).
 Paris, 1680. 
-With contributions by Pierre Cally.
+Edited by Pierre Cally.
 
 # II. Translations
 ## II.A. Into English
@@ -104,23 +106,30 @@ The Old English translation edited by Christopher Rawlinson.
 Nuremberg, 1473.
 Anonymous all-prose translation into German, accompanied by the Latin text and the commentary of Pseudo-Aquinas (=I.3).
 
-2. [**Case Y 672 .B2502**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247895).
+2. $[**Case Y 672 .B2502**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247895).
 Florence, 1551. 
 Translation into Italian by Benedetto Varchi. 
 
-3. [**Case miniature C 55 .158**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247892).
+3. $[**Case miniature C 55 .158**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247892).
 Paris, 1640. 
-Translation into French by René de Cerisiers, accompanied by de Cerisiers' *Consolation de la Theologie* (=III.9). 
+Translation into French by René de Cerisiers, accompanied by de Cerisiers' *Consolation de la Theologie* (=III.10). 
 
 # III. Related interest
 (This section could be expanded considerably.)
 
-1. [**VAULT oversize Case MS 33.5**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=429675)
+1. [**VAULT folio Case MS 9**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=864162)
+Austria, 1050x1150.
+Boethius,
+*De musica*,
+with excerpts on the same topic from Isidore's *Etymologiae*.
+(This item is in conservation until September 2019.)
+
+1. $[**VAULT oversize Case MS 33.5**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=429675)
 England, s. xv.
 John Gower, 
 *Confessio amantis*.
 
-1. [**folio Inc. 9654**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=429691).
+1. $[**folio Inc. 9654**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=429691).
 Westminster, 1483.
 John Gower, 
 *Confessio amantis*.
@@ -130,17 +139,17 @@ Milan, 1543.
 Girolamo Cardano, 
 *De consolatione libri tres*. 
 
-1. [**Case B 6 .069**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=213004)
+1. $[**Case B 6 .069**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=213004)
 London, 1575.
 William Baldwin, 
 *A treatice of morall philosophy*.
 
-1. [**Case B 2465 .48**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=507646).
+1. $[**Case B 2465 .48**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=507646).
 London, 1595. 
 Justus Lipsius, 
 *Tvvo Bookes of Constancie*, translated into English by John Stradling. 
 
-2. [**Case Y 682.L66 no. 3**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=506866).
+2. $[**Case Y 682.L66 no. 3**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=506866).
 Antwerp, 1599. 
 Justus Lipsius, 
 *De Constantia Libri Duo*. 
@@ -155,12 +164,12 @@ Paris, 1626.
 Nicolas Caussin, 
 *The Holy Court. Or the Christian Institution of Men of Quality with Examples of Those, Who in Court Have Flourished in Sanctity*, translated into English by Thomas Hawkins. 
 
-4. [**Case miniature C 55 .158**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247892).
+4. $[**Case miniature C 55 .158**](https://webvoyage.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247892).
 Paris, 1640.
 René de Cerisiers, 
 *La Consolation de la Theologie*, accompanied by de Cerisiers' French translation of Boethius's text (=II.B.3). 
 
-4. [**Case J 545 .582**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_248538).
+4. $[**Case J 545 .582**](https://vufind.carli.illinois.edu/vf-nby/Record/nby_248538).
 London, 1681.
 Nicolas Caussin,
 *A Voice from the Dead, Or, The Speech of an Old Noble Peer Being the Excellent Oration of the Learned and Famous Boetius to the Emperour Theodoricus*.
