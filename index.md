@@ -210,5 +210,4 @@ Collaborations are welcome; topics and dates should be decided in first or secon
 * A short presentation, about 5 minutes, on your research in progress, delivered in our last class meeting. 
 
 * A research essay, approximately 6,000 words.
-Due date tbd in late March. 
-
+Due Friday, 5 April, or by special arrangement later that month.
