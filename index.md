@@ -106,7 +106,6 @@ Reading:
 * Christine de Pizan, excerpts from "The debate on *The Romance of the Rose*" and *The Path of Long Study*, posted to [zotero](https://www.zotero.org/groups/268737/boethius_dcp/items/itemKey/KJ5BFDMK/)
 
 ## February 22 (wk7)
-Meet in room 380.
 Vernacular personification allegory II.  
 Reading: 
 
