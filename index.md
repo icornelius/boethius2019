@@ -136,7 +136,7 @@ We read from
 ISBN 978-1-904675-15-0.
 
 ## March 22 (make-up)
-Standard time; location tbd. 
+Standard time; meet in **B91**. 
 End-of-term presentations and early English translations of the *Consolation*.  
 Reading: 
 
