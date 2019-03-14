@@ -138,9 +138,10 @@ ISBN 978-1-904675-15-0.
 ## March 22 (make-up)
 Standard time; meet in **B91**. 
 End-of-term presentations and early English translations of the *Consolation*.  
-Reading: 
+Readings: 
 
-* Selected passages in Middle and Early Modern English translations (Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, I.T.)
+* [An anthology of early English translations of *Consolatio* 1.m1](files/consolatio-1m1-in-early-english.pdf) \(the Old English Boethius, Geoffrey Chaucer, John Walton, George Colville, Queen Elizabeth I, John Bracegirdle, and I.T.)
+* [Chaucer's Boethian lyrics and the 'Canticus Troili'](files/chaucer-boethian-lyric.pdf)
 
 
 # books
